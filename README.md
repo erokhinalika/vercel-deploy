@@ -2,8 +2,8 @@
 
 ## Установка
 ```bash
-pnpm i   # или npm i / yarn
-pnpm dev # http://localhost:3000
+yarn
+yarn dev
 ```
 
 ## Что внутри
